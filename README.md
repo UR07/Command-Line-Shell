@@ -1,7 +1,7 @@
 # Command-Line-Shell
 ##J_Shell is a command line shell that basically runs in a text window and causes respective action when recieves a command.
-Below are some of the recognized commands by J_Shell.
-🔑 J_pwd         The Current Working Directory
+##Below are some of the recognized commands by J_Shell.
+###🔑 J_pwd         The Current Working Directory
 🔑 J_ls              List of Sub Directories in the Current directory
 🔑 J_cd            To Change the Current Working Directory
 🔑 J_lstype      To display the list of items of sepcific type
