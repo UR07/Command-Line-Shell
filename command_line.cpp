@@ -359,18 +359,18 @@ int main()
 {
     cout << endl;
 
-    cout << "|           |     \                 /                    \n";
-    cout << "|           |      \               /               |       |\n";
-    cout << "|           |        \            /              |\n";
-    cout << "|           |         \          /                     |\n";
-    cout << "|           |          \     `  /              ------\n";
-    cout << "|           |           \     /        |\n";
-    cout << "|           |            \   /         |\n";
-    cout << "|           |             \ /        |\n";
+    cout << "|           |    |------------\                   \n";
+    cout << "|           |    |            |   |       |\n";
+    cout << "|           |    |            |   |\n";
+    cout << "|           |    | _ _ _ _ _ /           |\n";
+    cout << "|           |    | \                 ------\n";
+    cout << "|           |    |   \           |\n";
+    cout << "|           |    |     \            |\n";
+    cout << "|           |    |       \           |\n";
     cout << "`--------`   ----------   `-------`\n\n";
 
     cout << "_______________________________________\n";
-    cout << ".......WELCOME TO Uv's SHELL....... \nYou can use the Command J_help to start \n";
+    cout << ".......WELCOME TO UR's SHELL....... \nYou can use the Command J_help to start \n";
     cout << "---------------------------------------\n";
     commands["U_pwd"] = pwd_action;
     commands["U_ls"] = ls_action;
