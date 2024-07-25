@@ -13,7 +13,7 @@
 #define cd _chdir
 #else
 #include "unistd.h"
-#define cwd getcwd
+
 #define cd chdir
 #endif
 
